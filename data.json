@@ -25,6 +25,18 @@
             "ticketType": "ANY"
         },
         {
+            "eventName": "Take That",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY"
+        },
+        {
+            "eventName": "Peter Kay",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY"
+        },
+        {
             "eventName": "Tenacious D",
             "eventDate": "2024-05-07",
             "eventLocation": "ANY",
