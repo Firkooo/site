@@ -1,14 +1,16 @@
 {
     "events": [
         {
-            "name": "Foo Fighters",
-            "date": "ANY",
-            "type": "Standing"
+            "eventName": "Foo Fighters",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "Standing"
         },
         {
-            "name": "Taylor Swift",
-            "date": "ANY",
-            "type": "ANY"
+            "eventName": "Taylor Swift",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY"
         }
     ]
 }
