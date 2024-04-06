@@ -25,24 +25,6 @@
             "ticketType": "ANY"
         },
         {
-            "eventName": "Take That",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY"
-        },
-        {
-            "eventName": "Keane",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY"
-        },
-        {
-            "eventName": "Pearl Jam",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY"
-        },
-        {
             "eventName": "Peter Kay",
             "eventDate": "ANY",
             "eventLocation": "ANY",
