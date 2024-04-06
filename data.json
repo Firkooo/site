@@ -11,6 +11,12 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY"
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY"
         }
     ]
 }
