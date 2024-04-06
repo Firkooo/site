@@ -1,3 +1,14 @@
-{[
-{test: "test"}
-]}
+{
+    "events": [
+        {
+            "name": "Foo Fighters",
+            "date": "ANY",
+            "type": "Standing"
+        },
+        {
+            "name": "Taylor Swift",
+            "date": "ANY",
+            "type": "ANY"
+        }
+    ]
+}
