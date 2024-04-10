@@ -7,6 +7,12 @@
             "ticketType": "Standing"
         },
         {
+            "eventName": "Foo Fighters",
+            "eventDate": "2024-06-27",
+            "eventLocation": "ANY",
+            "ticketType": "General"
+        },
+        {
             "eventName": "Taylor Swift",
             "eventDate": "ANY",
             "eventLocation": "ANY",
@@ -22,13 +28,25 @@
             "eventName": "Nickelback",
             "eventDate": "2024-05-23",
             "eventLocation": "ANY",
-            "ticketType": "ANY"
+            "ticketType": "General"
+        },
+        {
+            "eventName": "Nickelback",
+            "eventDate": "2024-05-23",
+            "eventLocation": "ANY",
+            "ticketType": "Standing"
         },
         {
             "eventName": "Tenacious D",
             "eventDate": "2024-05-07",
             "eventLocation": "ANY",
-            "ticketType": "ANY"
+            "ticketType": "General"
+        },
+        {
+            "eventName": "Tenacious D",
+            "eventDate": "2024-05-07",
+            "eventLocation": "ANY",
+            "ticketType": "Standing"
         }
     ]
 }
