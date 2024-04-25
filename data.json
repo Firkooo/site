@@ -16,7 +16,8 @@
             "eventName": "Taylor Swift",
             "eventDate": "ANY",
             "eventLocation": "ANY",
-            "ticketType": "ANY"
+            "ticketType": "ANY",
+            "excludeKeywords": ["orchestra"]
         },
         {
             "eventName": "Nickelback",
