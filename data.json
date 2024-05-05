@@ -43,5 +43,11 @@
             "eventLocation": "ANY",
             "ticketType": "Standing"
         }
+        {
+            "eventName": "Twenty One Pilots",
+            "eventDate": "2025-05-06",
+            "eventLocation": "ANY",
+            "ticketType": "Standing"
+        }
     ]
 }
