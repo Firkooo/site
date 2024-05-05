@@ -17,7 +17,7 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY",
-            "excludeKeywords": ["orchestra"]
+            "excludeKeywords": ["orchestra", "tribute"]
         },
         {
             "eventName": "Nickelback",
