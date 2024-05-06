@@ -53,6 +53,13 @@
             "eventLocation": "ANY",
             "ticketType": "Standing",
             "customMessage": "<@208345873711628288> "
+        },
+        {
+            "eventName": "Sleep Token",
+            "eventDate": "2024-11-28",
+            "eventLocation": "ANY",
+            "ticketType": "Standing",
+            "customMessage": "<@208345873711628288> "
         }
     ]
 }
