@@ -24,14 +24,16 @@
             "eventDate": "2024-05-23",
             "eventLocation": "ANY",
             "ticketType": "General",
-            "customMessage": "<@208345873711628288> "
+            "customMessage": "<@208345873711628288> ",
+            "discountOnly": true
         },
         {
             "eventName": "Nickelback",
             "eventDate": "2024-05-23",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> "
+            "customMessage": "<@208345873711628288> ",
+            "discountOnly": true
         },
         {
             "eventName": "Tenacious D",
