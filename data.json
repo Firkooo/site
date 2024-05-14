@@ -25,7 +25,6 @@
             "eventLocation": "ANY",
             "ticketType": "General",
             "customMessage": "<@208345873711628288> ",
-            "discountOnly": true
         },
         {
             "eventName": "Nickelback",
@@ -33,27 +32,26 @@
             "eventLocation": "ANY",
             "ticketType": "Standing",
             "customMessage": "<@208345873711628288> ",
-            "discountOnly": true
-        },
-        {
-            "eventName": "Tenacious D",
-            "eventDate": "2024-05-07",
-            "eventLocation": "ANY",
-            "ticketType": "General",
-            "customMessage": "<@208345873711628288> "
-        },
-        {
-            "eventName": "Tenacious D",
-            "eventDate": "2024-05-07",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> "
         },
         {
             "eventName": "Twenty One Pilots",
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
             "ticketType": "Standing",
+            "customMessage": "<@208345873711628288> "
+        },
+        {
+            "eventName": "Childish Gambino",
+            "eventDate": "2025-12-03",
+            "eventLocation": "ANY",
+            "ticketType": "Standing",
+            "customMessage": "<@208345873711628288> "
+        },
+        {
+            "eventName": "Childish Gambino",
+            "eventDate": "2025-12-03",
+            "eventLocation": "ANY",
+            "ticketType": "General",
             "customMessage": "<@208345873711628288> "
         }
     ]
