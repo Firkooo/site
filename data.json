@@ -20,20 +20,6 @@
             "excludeKeywords": ["orchestra", "tribute"]
         },
         {
-            "eventName": "Nickelback",
-            "eventDate": "2024-05-23",
-            "eventLocation": "ANY",
-            "ticketType": "General",
-            "customMessage": "<@208345873711628288> Nickelback"
-        },
-        {
-            "eventName": "Nickelback",
-            "eventDate": "2024-05-23",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> Nickelback"
-        },
-        {
             "eventName": "Twenty One Pilots",
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
