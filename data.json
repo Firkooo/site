@@ -24,7 +24,8 @@
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Pilots"
+            "customMessage": "<@208345873711628288> 21Pilots",
+            "startPingDate": "2025-01-01"
         },
         {
             "eventName": "Childish Gambino",
@@ -45,7 +46,8 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "Weekend",
-            "customMessage": "<@208345873711628288> Download"
+            "customMessage": "<@208345873711628288> Download",
+            "quantity": 1
         }
     ]
 }
