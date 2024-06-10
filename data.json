@@ -34,7 +34,8 @@
             "eventLocation": "ANY",
             "ticketType": "Standing",
             "customMessage": "<@208345873711628288> Childish Gambino",
-            "discountOnly": true
+            "discountOnly": true,
+            "startPingDate": "2024-11-25"
         },
         {
             "eventName": "Childish Gambino",
@@ -42,7 +43,8 @@
             "eventLocation": "ANY",
             "ticketType": "General",
             "customMessage": "<@208345873711628288> Childish Gambino",
-            "discountOnly": true
+            "discountOnly": true,
+            "startPingDate": "2024-11-25"
         },
         {
             "eventName": "Download Festival",
