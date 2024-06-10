@@ -33,14 +33,16 @@
             "eventDate": "2024-12-03",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> Childish Gambino"
+            "customMessage": "<@208345873711628288> Childish Gambino",
+            "discountOnly": true
         },
         {
             "eventName": "Childish Gambino",
             "eventDate": "2024-12-03",
             "eventLocation": "ANY",
             "ticketType": "General",
-            "customMessage": "<@208345873711628288> Childish Gambino"
+            "customMessage": "<@208345873711628288> Childish Gambino",
+            "discountOnly": true
         },
         {
             "eventName": "Download Festival",
@@ -48,7 +50,8 @@
             "eventLocation": "ANY",
             "ticketType": "Weekend",
             "customMessage": "<@208345873711628288> Download",
-            "quantity": 1
+            "quantity": 1,
+            "discountOnly": true
         }
     ]
 }
