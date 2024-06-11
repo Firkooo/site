@@ -50,15 +50,6 @@
             "eventName": "Download Festival",
             "eventDate": "ANY",
             "eventLocation": "ANY",
-            "ticketType": "Weekend",
-            "customMessage": "<@208345873711628288> Download",
-            "quantity": 1,
-            "discountOnly": true
-        },
-        {
-            "eventName": "Download Festival",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
             "ticketType": "Sunday",
             "customMessage": "<@208345873711628288> Sunday",
             "quantity": 1,
