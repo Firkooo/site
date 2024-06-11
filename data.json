@@ -45,15 +45,6 @@
             "customMessage": "<@208345873711628288> Childish Gambino",
             "discountOnly": true,
             "startPingDate": "2024-11-25"
-        },
-        {
-            "eventName": "Download Festival",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "Weekend",
-            "customMessage": "<@208345873711628288> Download",
-            "quantity": 1,
-            "discountOnly": true
         }
     ]
 }
