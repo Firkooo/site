@@ -53,7 +53,8 @@
             "ticketType": "Sunday",
             "customMessage": "<@208345873711628288> Sunday",
             "quantity": 1,
-            "discountOnly": true
+            "discountOnly": true,
+            "excludeKeywords": ["only"]
         }
     ]
 }
