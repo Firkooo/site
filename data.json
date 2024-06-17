@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "eventName": "Taylor Swift",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY",
+            "excludeKeywords": ["orchestra", "tribute", "vip"]
+        },
+        {
             "eventName": "Foo Fighters",
             "eventDate": "2024-06-27",
             "eventLocation": "ANY",
@@ -12,13 +19,6 @@
             "eventDate": "2024-06-27",
             "eventLocation": "ANY",
             "ticketType": "General"
-        },
-        {
-            "eventName": "Taylor Swift",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "excludeKeywords": ["orchestra", "tribute", "vip"]
         },
         {
             "eventName": "Twenty One Pilots",
