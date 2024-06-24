@@ -11,7 +11,7 @@
             "eventName": "Foo Fighters",
             "eventDate": "2024-06-27",
             "eventLocation": "ANY",
-            "ticketType": "Standing",
+            "ticketType": "ANY",
             "discountOnly": true
         },
         {
