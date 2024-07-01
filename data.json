@@ -8,19 +8,6 @@
             "excludeKeywords": ["orchestra", "tribute", "vip"]
         },
         {
-            "eventName": "Foo Fighters",
-            "eventDate": "2024-06-27",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "discountOnly": true
-        },
-        {
-            "eventName": "Foo Fighters",
-            "eventDate": "2024-06-27",
-            "eventLocation": "ANY",
-            "ticketType": "General"
-        },
-        {
             "eventName": "Twenty One Pilots",
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
