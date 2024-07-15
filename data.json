@@ -38,6 +38,6 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY"
-        },
+        }
     ]
 }
