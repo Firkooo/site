@@ -32,6 +32,12 @@
             "customMessage": "<@208345873711628288> Childish Gambino",
             "discountOnly": true,
             "startPingDate": "2024-11-25"
-        }
+        },
+        {
+            "eventName": "Charli XCX",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY"
+        },
     ]
 }
