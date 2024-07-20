@@ -38,6 +38,12 @@
             "eventDate": "2024-11-28",
             "eventLocation": "ANY",
             "ticketType": "ANY"
+        },
+        {
+            "eventName": "chappell roan",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY"
         }
     ]
 }
