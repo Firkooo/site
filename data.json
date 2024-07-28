@@ -16,6 +16,14 @@
             "startPingDate": "2025-01-01"
         },
         {
+            "eventName": "Twenty One Pilots",
+            "eventDate": "2025-05-06",
+            "eventLocation": "ANY",
+            "ticketType": "General",
+            "customMessage": "<@208345873711628288> 21Pilots",
+            "startPingDate": "2025-01-01"
+        },
+        {
             "eventName": "Childish Gambino",
             "eventDate": "2024-12-03",
             "eventLocation": "ANY",
