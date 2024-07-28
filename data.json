@@ -44,12 +44,6 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY"
-        },
-        {
-            "eventName": "Billy Joel",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY"
         }
     ]
 }
