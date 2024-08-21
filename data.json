@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "eventName": "Taylor Swift",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "excludeKeywords": ["orchestra", "tribute", "vip"]
-        },
-        {
             "eventName": "Twenty One Pilots",
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
