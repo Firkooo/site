@@ -21,7 +21,8 @@
             "eventName": "Charli XCX",
             "eventDate": "ANY",
             "eventLocation": "ANY",
-            "ticketType": "ANY"
+            "ticketType": "ANY",
+            "excludeKeywords: ["Party"]
         },
         {
             "eventName": "chappell roan",
