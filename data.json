@@ -22,7 +22,7 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY",
-            "excludeKeywords: ["Party"]
+            "excludeKeywords": ["Party"]
         },
         {
             "eventName": "chappell roan",
