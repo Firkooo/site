@@ -29,7 +29,7 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY",
-            "excludeKeywords": ["upgrade"]
+            "excludeKeywords": ["upgrade", "VIP"]
         }
     ]
 }
