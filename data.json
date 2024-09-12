@@ -28,7 +28,8 @@
             "eventName": "chappell roan",
             "eventDate": "ANY",
             "eventLocation": "ANY",
-            "ticketType": "ANY"
+            "ticketType": "ANY",
+            "excludeKeywords": ["upgrade"]
         }
     ]
 }
