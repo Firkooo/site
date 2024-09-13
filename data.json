@@ -29,7 +29,7 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY",
-            "excludeKeywords": ["upgrade", "VIP"]
+            "excludeKeywords": ["upgrade", "VIP", "party"]
         },
         {
             "eventName": "Linkin Park",
