@@ -30,6 +30,12 @@
             "eventLocation": "ANY",
             "ticketType": "ANY",
             "excludeKeywords": ["upgrade", "VIP"]
+        },
+        {
+            "eventName": "Linkin Park",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "Standing"
         }
     ]
 }
