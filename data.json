@@ -36,6 +36,12 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "Standing"
+        },
+        {
+            "eventName": "Linkin Park",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "General"
         }
     ]
 }
