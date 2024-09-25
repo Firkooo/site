@@ -32,16 +32,10 @@
             "excludeKeywords": ["upgrade", "VIP", "party"]
         },
         {
-            "eventName": "Linkin Park",
+            "eventName": "League of Legends",
             "eventDate": "ANY",
             "eventLocation": "ANY",
-            "ticketType": "Standing"
-        },
-        {
-            "eventName": "Linkin Park",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "General"
+            "ticketType": "ANY"
         }
     ]
 }
