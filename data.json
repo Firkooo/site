@@ -9,15 +9,6 @@
             "startPingDate": "2025-01-01"
         },
         {
-            "eventName": "Childish Gambino",
-            "eventDate": "2024-12-03",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> Childish Gambino",
-            "discountOnly": true,
-            "startPingDate": "2024-11-25"
-        },
-        {
             "eventName": "Charli XCX",
             "eventDate": "ANY",
             "eventLocation": "ANY",
@@ -36,6 +27,13 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY"
+        },
+        {
+            "eventName": "Sum 41",
+            "eventDate": "2024-10-30",
+            "eventLocation": "ANY",
+            "ticketType": "Standing",
+            "customMessage": "<@208345873711628288> Sum 41"
         }
     ]
 }
