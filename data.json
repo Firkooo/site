@@ -1,14 +1,6 @@
 {
     "events": [
         {
-            "eventName": "Twenty One Pilots",
-            "eventDate": "2025-05-06",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Pilots",
-            "startPingDate": "2025-01-01"
-        },
-        {
             "eventName": "Charli XCX",
             "eventDate": "ANY",
             "eventLocation": "ANY",
@@ -41,6 +33,14 @@
             "eventLocation": "ANY",
             "ticketType": "Standing",
             "customMessage": "<@208345873711628288> Sleep Token"
+        },
+        {
+            "eventName": "Twenty One Pilots",
+            "eventDate": "2025-05-06",
+            "eventLocation": "ANY",
+            "ticketType": "Standing",
+            "customMessage": "<@208345873711628288> 21Pilots",
+            "startPingDate": "2025-01-01"
         }
     ]
 }
