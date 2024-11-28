@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "eventName": "Charli XCX",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "excludeKeywords": ["Party"]
-        },
-        {
             "eventName": "chappell roan",
             "eventDate": "ANY",
             "eventLocation": "ANY",
