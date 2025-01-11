@@ -8,12 +8,6 @@
             "excludeKeywords": ["upgrade", "VIP", "party"]
         },
         {
-            "eventName": "Jane McDonald",
-            "eventDate": "ANY",
-            "eventLocation": "Birmingham",
-            "ticketType": "ANY"
-        },
-        {
             "eventName": "Sum 41",
             "eventDate": "2024-10-30",
             "eventLocation": "ANY",
@@ -32,8 +26,7 @@
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Pilots",
-            "startPingDate": "2025-01-01"
+            "customMessage": "<@208345873711628288> 21Pilots"
         }
     ]
 }
