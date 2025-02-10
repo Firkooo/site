@@ -1,25 +1,11 @@
 {
     "events": [
         {
-            "eventName": "chappell roan",
-            "eventDate": "ANY",
+            "eventName": "snow patrol",
+            "eventDate": "2025-02-16",
             "eventLocation": "ANY",
             "ticketType": "ANY",
-            "excludeKeywords": ["upgrade", "VIP", "party"]
-        },
-        {
-            "eventName": "Sum 41",
-            "eventDate": "2024-10-30",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> Sum 41"
-        },
-        {
-            "eventName": "Sleep Token",
-            "eventDate": "2024-11-28",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> Sleep Token"
+            "excludeKeywords": ["VIP"]
         },
         {
             "eventName": "Twenty One Pilots",
