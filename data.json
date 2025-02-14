@@ -13,7 +13,35 @@
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Pilots"
+            "customMessage": "<@208345873711628288> Black Sab"
+        },
+        {
+            "eventName": "Black Sabbath",
+            "eventDate": "2025-07-05",
+            "eventLocation": "ANY",
+            "ticketType": "Stand",
+            "customMessage": "<@208345873711628288> Black Sab"
+        },
+        {
+            "eventName": "Black Sabbath",
+            "eventDate": "2025-07-05",
+            "eventLocation": "ANY",
+            "ticketType": "Seat",
+            "customMessage": "<@208345873711628288> Black Sab"
+        },
+        {
+            "eventName": "Black Sabbath",
+            "eventDate": "2025-07-05",
+            "eventLocation": "ANY",
+            "ticketType": "General",
+            "customMessage": "<@208345873711628288> Black Sab"
+        },
+        {
+            "eventName": "Black Sabbath",
+            "eventDate": "2025-07-05",
+            "eventLocation": "ANY",
+            "ticketType": "Gold",
+            "customMessage": "<@208345873711628288> Black Sab"
         }
     ]
 }
