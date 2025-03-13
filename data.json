@@ -1,12 +1,11 @@
 {
     "events": [
         {
-            "eventName": "snow patrol",
-            "eventDate": "2025-02-16",
-            "eventLocation": "ANY",
+            "eventName": "six",
+            "eventDate": "ANY",
+            "eventLocation": "birmingham",
             "ticketType": "ANY",
-            "excludeKeywords": ["VIP"],
-            "customMessage": "<@207227339954847744> Snow Patrol"
+            "customMessage": "<@207227339954847744> Six"
         },
         {
             "eventName": "Twenty One Pilots",
