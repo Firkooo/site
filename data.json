@@ -49,6 +49,14 @@
             "ticketType": "Any",
             "customMessage": "<@208345873711628288> Download Festival",
             "discountOnly": True
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Any"
+            "customMessage": "<@208345873711628288> Download Festival",
+            "discountOnly": True
         }
     ]
 }
