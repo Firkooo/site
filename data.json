@@ -48,7 +48,7 @@
             "eventLocation": "ANY",
             "ticketType": "Any",
             "customMessage": "<@208345873711628288> Download Festival",
-            "discountOnly": True
+            "discountOnly": true
         },
         {
             "eventName": "Download Festival",
@@ -56,7 +56,7 @@
             "eventLocation": "ANY",
             "ticketType": "Any"
             "customMessage": "<@208345873711628288> Download Festival",
-            "discountOnly": True
+            "discountOnly": true
         }
     ]
 }
