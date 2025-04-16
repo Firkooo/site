@@ -59,6 +59,13 @@
             "customMessage": "<@208345873711628288> Download Festival 116% discount test",
             "discountOnly": true,
             "discountAmount": 116
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Any",
+            "customMessage": "<@208345873711628288> Download Festival Discount only disabled"
         }
     ]
 }
