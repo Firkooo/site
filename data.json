@@ -48,6 +48,7 @@
             "eventLocation": "ANY",
             "ticketType": "Any",
             "customMessage": "<@208345873711628288> Download Festival 80% discount test",
+            "discountOnly": true,
             "discountAmount": 80
         },
         {
@@ -55,8 +56,9 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Any",
-            "customMessage": "<@208345873711628288> Download Festival 110% discount test",
-            "discountAmount": 110
+            "customMessage": "<@208345873711628288> Download Festival 116% discount test",
+            "discountOnly": true,
+            "discountAmount": 116
         }
     ]
 }
