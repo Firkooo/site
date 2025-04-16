@@ -48,7 +48,7 @@
             "eventLocation": "ANY",
             "ticketType": "Any",
             "customMessage": "<@208345873711628288> Download Festival 80% discount test",
-            "discountAmount": "80"
+            "discountAmount": 80
         },
         {
             "eventName": "Download Festival",
@@ -56,7 +56,7 @@
             "eventLocation": "ANY",
             "ticketType": "Any",
             "customMessage": "<@208345873711628288> Download Festival 110% discount test",
-            "discountAmount": "110"
+            "discountAmount": 110
         }
     ]
 }
