@@ -12,7 +12,9 @@
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Ps"
+            "customMessage": "<@208345873711628288> 21Ps",
+            "discountOnly": true,
+            "discountAmount": 80
         },
         {
             "eventName": "Black Sabbath",
