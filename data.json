@@ -48,8 +48,15 @@
             "eventName": "Download Festival",
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
-            "ticketType": "Any",
-            "customMessage": "<@208345873711628288> Download Festival No Discount"
+            "ticketType": "Arena",
+            "customMessage": "<@208345873711628288> Download Festival Arena"
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Camping",
+            "customMessage": "<@208345873711628288> Download Festival Camping"
         }
     ]
 }
