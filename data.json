@@ -12,9 +12,7 @@
             "eventDate": "2025-05-06",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Ps",
-            "discountOnly": true,
-            "discountAmount": 80
+            "customMessage": "<@208345873711628288> 21Ps"
         },
         {
             "eventName": "Black Sabbath",
@@ -59,6 +57,66 @@
             "ticketType": "Camping",
             "customMessage": "<@208345873711628288> Download Festival Camping",
             "excludeKeywords": ["upgrade", "VIP", "RIP"]
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Arena",
+            "customMessage": "<@208345873711628288> Download Festival Arena 70% Spam",
+            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "discountOnly": true,
+            "discountAmount": 70
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Camping",
+            "customMessage": "<@208345873711628288> Download Festival Camping 70% Spam",
+            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "discountOnly": true,
+            "discountAmount": 70
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Arena",
+            "customMessage": "<@208345873711628288> Download Festival Arena 70% Spam",
+            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "discountOnly": true,
+            "discountAmount": 70
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Camping",
+            "customMessage": "<@208345873711628288> Download Festival Camping 70% Spam",
+            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "discountOnly": true,
+            "discountAmount": 70
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Arena",
+            "customMessage": "<@208345873711628288> Download Festival Arena 70% Spam",
+            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "discountOnly": true,
+            "discountAmount": 70
+        },
+        {
+            "eventName": "Download Festival",
+            "eventDate": "2025-06-13",
+            "eventLocation": "ANY",
+            "ticketType": "Camping",
+            "customMessage": "<@208345873711628288> Download Festival Camping 70% Spam",
+            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "discountOnly": true,
+            "discountAmount": 70
         }
     ]
 }
