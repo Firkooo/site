@@ -33,7 +33,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Arena",
-            "customMessage": "<@208345873711628288> Download Festival Arena",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Arena",
             "excludeKeywords": ["upgrade", "VIP", "RIP"]
         },
         {
@@ -41,7 +41,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Camping",
-            "customMessage": "<@208345873711628288> Download Festival Camping",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Camping",
             "excludeKeywords": ["upgrade", "VIP", "RIP"]
         },
         {
@@ -49,7 +49,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Arena",
-            "customMessage": "<@208345873711628288> Download Festival Arena 70% Spam",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Arena 70% Spam",
             "excludeKeywords": ["upgrade", "VIP", "RIP"],
             "discountOnly": true,
             "discountAmount": 70
@@ -59,7 +59,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Camping",
-            "customMessage": "<@208345873711628288> Download Festival Camping 70% Spam",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Camping 70% Spam",
             "excludeKeywords": ["upgrade", "VIP", "RIP"],
             "discountOnly": true,
             "discountAmount": 70
@@ -69,7 +69,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Arena",
-            "customMessage": "<@208345873711628288> Download Festival Arena 70% Spam",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Arena 70% Spam",
             "excludeKeywords": ["upgrade", "VIP", "RIP"],
             "discountOnly": true,
             "discountAmount": 70
@@ -79,7 +79,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Camping",
-            "customMessage": "<@208345873711628288> Download Festival Camping 70% Spam",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Camping 70% Spam",
             "excludeKeywords": ["upgrade", "VIP", "RIP"],
             "discountOnly": true,
             "discountAmount": 70
@@ -89,7 +89,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Arena",
-            "customMessage": "<@208345873711628288> Download Festival Arena 70% Spam",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Arena 70% Spam",
             "excludeKeywords": ["upgrade", "VIP", "RIP"],
             "discountOnly": true,
             "discountAmount": 70
@@ -99,7 +99,7 @@
             "eventDate": "2025-06-13",
             "eventLocation": "ANY",
             "ticketType": "Camping",
-            "customMessage": "<@208345873711628288> Download Festival Camping 70% Spam",
+            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Camping 70% Spam",
             "excludeKeywords": ["upgrade", "VIP", "RIP"],
             "discountOnly": true,
             "discountAmount": 70
