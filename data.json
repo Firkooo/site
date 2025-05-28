@@ -1,20 +1,6 @@
 {
     "events": [
         {
-            "eventName": "six",
-            "eventDate": "ANY",
-            "eventLocation": "birmingham",
-            "ticketType": "ANY",
-            "customMessage": "<@207227339954847744> Six"
-        },
-        {
-            "eventName": "Twenty One Pilots",
-            "eventDate": "2025-05-06",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> 21Ps"
-        },
-        {
             "eventName": "Black Sabbath",
             "eventDate": "2025-07-05",
             "eventLocation": "ANY",
