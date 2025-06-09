@@ -34,7 +34,7 @@
             "eventLocation": "ANY",
             "ticketType": "Camping",
             "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Camping 70%",
-            "excludeKeywords": ["upgrade", "VIP", "RIP"],
+            "excludeKeywords": ["upgrade", "VIP", "RIP", "Child"],
             "discountOnly": true,
             "discountAmount": 70
         }
