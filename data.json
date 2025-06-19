@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "eventName": "Oasis",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY",
+            "excludeKeywords": ["forever", "maybe", "definitely"],
+        },
+        {
             "eventName": "Black Sabbath",
             "eventDate": "2025-07-05",
             "eventLocation": "ANY",
