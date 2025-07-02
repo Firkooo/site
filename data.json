@@ -5,7 +5,7 @@
             "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "ANY",
-            "excludeKeywords": ["forever", "maybe", "definitely", "platinum", "hospitality", "party"]
+            "excludeKeywords": ["forever", "maybe", "definitely", "platinum", "hospitality", "party", "vip"]
         },
         {
             "eventName": "Black Sabbath",
