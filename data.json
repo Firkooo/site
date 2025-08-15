@@ -8,42 +8,11 @@
             "excludeKeywords": ["forever", "maybe", "definitely", "platinum", "hospitality", "party", "vip", "demand", "coach", "oasismania", "dynamic"]
         },
         {
-            "eventName": "Black Sabbath",
-            "eventDate": "2025-07-05",
+            "eventName": "My Chemical Romance",
+            "eventDate": "ANY",
             "eventLocation": "ANY",
             "ticketType": "Stand",
-            "customMessage": "<@208345873711628288> Black Sab"
-        },
-        {
-            "eventName": "Black Sabbath",
-            "eventDate": "2025-07-05",
-            "eventLocation": "ANY",
-            "ticketType": "Seat",
-            "customMessage": "<@208345873711628288> Black Sab"
-        },
-        {
-            "eventName": "Black Sabbath",
-            "eventDate": "2025-07-05",
-            "eventLocation": "ANY",
-            "ticketType": "General",
-            "customMessage": "<@208345873711628288> Black Sab"
-        },
-        {
-            "eventName": "Black Sabbath",
-            "eventDate": "2025-07-05",
-            "eventLocation": "ANY",
-            "ticketType": "Gold",
-            "customMessage": "<@208345873711628288> Black Sab"
-        },
-        {
-            "eventName": "Download Festival",
-            "eventDate": "2025-06-13",
-            "eventLocation": "ANY",
-            "ticketType": "Camping",
-            "customMessage": "<@208345873711628288> <@329725249325367297> <@95579971753349120> <@334696561890295809> Download Festival Camping 70%",
-            "excludeKeywords": ["upgrade", "VIP", "RIP", "Child"],
-            "discountOnly": true,
-            "discountAmount": 70
+            "customMessage": "<@208345873711628288> My Chemical Romance"
         }
     ]
 }
