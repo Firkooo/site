@@ -34,6 +34,20 @@
             "eventLocation": "ANY",
             "ticketType": "General",
             "customMessage": "<@208345873711628288> Halsey"
+        },
+        {
+            "eventName": "Gorillaz",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "General",
+            "customMessage": "<@208345873711628288> My Chemical Romance"
+        },
+        {
+            "eventName": "Gorillaz",
+            "eventDate": "Any",
+            "eventLocation": "ANY",
+            "ticketType": "Stand",
+            "customMessage": "<@208345873711628288> Halsey"
         }
     ]
 }
