@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "eventName": "Oasis",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "excludeKeywords": ["forever", "maybe", "definitely", "platinum", "hospitality", "party", "vip", "demand", "coach", "oasismania", "dynamic"]
-        },
-        {
             "eventName": "My Chemical Romance",
             "eventDate": "ANY",
             "eventLocation": "ANY",
