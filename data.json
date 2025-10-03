@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "eventName": "Red Bull",
+            "eventDate": "ANY",
+            "eventLocation": "ANY",
+            "ticketType": "ANY",
+            "customMessage": "<@207227339954847744> Red Bull Event"
+        },
+        {
             "eventName": "My Chemical Romance",
             "eventDate": "ANY",
             "eventLocation": "ANY",
