@@ -9,20 +9,6 @@
             "excludeKeywords": ["Newcastle"]
         },
         {
-            "eventName": "Halsey",
-            "eventDate": "Any",
-            "eventLocation": "ANY",
-            "ticketType": "Stand",
-            "customMessage": "<@208345873711628288> Halsey"
-        },
-        {
-            "eventName": "Halsey",
-            "eventDate": "Any",
-            "eventLocation": "ANY",
-            "ticketType": "General",
-            "customMessage": "<@208345873711628288> Halsey"
-        },
-        {
             "eventName": "Gorillaz",
             "eventDate": "2026-03-22",
             "eventLocation": "ANY",
