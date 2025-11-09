@@ -2,16 +2,16 @@
     "events": [
         {
             "eventName": "Lorde",
-            "eventDate": "ANY",
-            "eventLocation": "Birmingham",
+            "eventDate": "2025-11-20",
+            "eventLocation": "ANY",
             "ticketType": "ANY",
             "customMessage": "<@207227339954847744> Lorde",
             "excludeKeywords": []
         },
         {
             "eventName": "Bastille",
-            "eventDate": "ANY",
-            "eventLocation": "Birmingham",
+            "eventDate": "2025-11-15",
+            "eventLocation": "ANY",
             "ticketType": "ANY",
             "customMessage": "<@207227339954847744> Bastille",
             "excludeKeywords": []
