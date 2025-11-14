@@ -25,18 +25,18 @@
             "excludeKeywords": ["Newcastle"]
         },
         {
-            "eventName": "Halsey",
-            "eventDate": "Any",
+            "eventName": "Foo Fighters",
+            "eventDate": "2026-06-27",
             "eventLocation": "ANY",
             "ticketType": "Stand",
-            "customMessage": "<@208345873711628288> Halsey"
+            "customMessage": "<@208345873711628288> Foo Fighters"
         },
         {
-            "eventName": "Halsey",
-            "eventDate": "Any",
+            "eventName": "Foo Fighters",
+            "eventDate": "2026-06-27",
             "eventLocation": "ANY",
             "ticketType": "General",
-            "customMessage": "<@208345873711628288> Halsey"
+            "customMessage": "<@208345873711628288> Foo Fighters"
         },
         {
             "eventName": "Gorillaz",
