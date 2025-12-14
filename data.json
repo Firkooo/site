@@ -1,14 +1,6 @@
 {
     "events": [
         {
-            "eventName": "Stereophonics",
-            "eventDate": "ANY",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "customMessage": "<@207227339954847744> Stereophonics",
-            "excludeKeywords": ["Newcastle"]
-        },
-        {
             "eventName": "Foo Fighters",
             "eventDate": "2026-06-27",
             "eventLocation": "ANY",
