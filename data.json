@@ -27,6 +27,13 @@
             "eventLocation": "ANY",
             "ticketType": "Stand",
             "customMessage": "<@208345873711628288> Gorillaz"
+        },
+        {
+            "eventName": "Download",
+            "eventDate": "2026-06-12",
+            "eventLocation": "ANY",
+            "ticketType": "General",
+            "customMessage": "<@208345873711628288> Download Festival"
         }
     ]
 }
