@@ -40,14 +40,14 @@
             "eventDate": "2026-03-10",
             "eventLocation": "ANY",
             "ticketType": "General",
-            "customMessage": "<@208345873711628288> Hot Mulligan"
+            "customMessage": "<@329725249325367297> Hot Mulligan"
         },
         {
             "eventName": "Hot Mulligan",
             "eventDate": "2026-03-10",
             "eventLocation": "ANY",
             "ticketType": "Standing",
-            "customMessage": "<@208345873711628288> Hot Mulligan"
+            "customMessage": "<@329725249325367297> Hot Mulligan"
         }
     ]
 }
