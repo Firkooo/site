@@ -1,6 +1,13 @@
 {
     "events": [
         {
+            "eventName": "Tame Impala",
+            "eventDate": "2026-05-09",
+            "eventLocation": "ANY",
+            "ticketType": "ANY",
+            "customMessage": "<@207227339954847744> Tame Impala"
+        },
+        {
             "eventName": "Foo Fighters",
             "eventDate": "2026-06-27",
             "eventLocation": "ANY",
