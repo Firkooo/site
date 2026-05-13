@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "eventName": "Tame Impala",
-            "eventDate": "2026-05-09",
-            "eventLocation": "ANY",
-            "ticketType": "ANY",
-            "customMessage": "<@207227339954847744> Tame Impala"
-        },
-        {
             "eventName": "Foo Fighters",
             "eventDate": "2026-06-27",
             "eventLocation": "ANY",
@@ -20,41 +13,13 @@
             "eventLocation": "ANY",
             "ticketType": "General",
             "customMessage": "<@208345873711628288> Foo Fighters"
-        },
-        {
-            "eventName": "Gorillaz",
-            "eventDate": "2026-03-22",
-            "eventLocation": "ANY",
-            "ticketType": "General",
-            "customMessage": "<@208345873711628288> Gorillaz"
-        },
-        {
-            "eventName": "Gorillaz",
-            "eventDate": "2026-03-22",
-            "eventLocation": "ANY",
-            "ticketType": "Stand",
-            "customMessage": "<@208345873711628288> Gorillaz"
         },
         {
             "eventName": "Download",
             "eventDate": "2026-06-12",
             "eventLocation": "ANY",
-            "ticketType": "General",
+            "ticketType": "ANY",
             "customMessage": "<@208345873711628288> Download Festival"
-        },
-        {
-            "eventName": "Hot Mulligan",
-            "eventDate": "2026-03-10",
-            "eventLocation": "ANY",
-            "ticketType": "General",
-            "customMessage": "<@329725249325367297> Hot Mulligan"
-        },
-        {
-            "eventName": "Hot Mulligan",
-            "eventDate": "2026-03-10",
-            "eventLocation": "ANY",
-            "ticketType": "Standing",
-            "customMessage": "<@329725249325367297> Hot Mulligan"
         }
     ]
 }
